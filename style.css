@@ -1,0 +1,19 @@
+
+body {
+    background-color: #ffcccc;
+}
+
+
+h1 {
+    color: #d147a3;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    text-align: left;
+    font-family: 'Indie Flower', cursive;
+}
+
+p {
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    color: #ff6666;
+}
+
